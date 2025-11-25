@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Models
+*.pt
+*.pth
+*.ckpt
+*.h5
+
+# Logs
+logs/
+*.log
+
+
+# Checkpoints
+checkpoints/
+saved/
+save/
+model/
+output/
+
+# VSCode
+.vscode/
+
+# IDE
+.idea/
+
+# Env
+env/
+venv/
+.venv/
