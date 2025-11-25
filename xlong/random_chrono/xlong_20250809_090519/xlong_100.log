@@ -1,0 +1,133 @@
+Processing xlong dataset...
+Filtering triplets
+Dataset = xlong
+  # users         = 69691
+  # items         = 2122932
+  # interactions  = 66822348
+  # Sequence length = 100
+  # Average sequence length = 956.84
+Epoch 1 – last‐batch loss: 1.2437, AUC: 0.7899
+Epoch 2 – last‐batch loss: 1.1457, AUC: 0.8088
+Epoch 3 – last‐batch loss: 1.0897, AUC: 0.8147
+Epoch 4 – last‐batch loss: 1.0466, AUC: 0.8209
+Epoch 5 – last‐batch loss: 1.0349, AUC: 0.8191
+Epoch 6 – last‐batch loss: 1.0273, AUC: 0.8267
+Epoch 7 – last‐batch loss: 0.9967, AUC: 0.8345
+Epoch 8 – last‐batch loss: 1.0115, AUC: 0.8307
+Epoch 9 – last‐batch loss: 0.9615, AUC: 0.8514
+Epoch 10 – last‐batch loss: 0.9513, AUC: 0.8548
+Epoch 11 – last‐batch loss: 0.9484, AUC: 0.8531
+Epoch 12 – last‐batch loss: 0.9183, AUC: 0.8634
+Epoch 13 – last‐batch loss: 0.9183, AUC: 0.8652
+Epoch 14 – last‐batch loss: 0.9074, AUC: 0.8709
+Epoch 15 – last‐batch loss: 0.8757, AUC: 0.8746
+Epoch 16 – last‐batch loss: 0.8852, AUC: 0.8712
+Epoch 17 – last‐batch loss: 0.8670, AUC: 0.8777
+Epoch 18 – last‐batch loss: 0.8453, AUC: 0.8893
+Epoch 19 – last‐batch loss: 0.8621, AUC: 0.8805
+Epoch 20 – last‐batch loss: 0.8272, AUC: 0.8893
+Evaluating...
+........................................................................................................................................................................................................
+epoch:20, time: 667.738007(s), valid (NDCG@10: 0.3451, Recall@10: 0.5597, NDCG@20: 0.3778, Recall@20: 0.6884), test (NDCG@10: 0.0237, Recall@10: 0.0468, NDCG@20: 0.0306, Recall@20: 0.0744)
+Epoch 21 – last‐batch loss: 0.8490, AUC: 0.8823
+Epoch 22 – last‐batch loss: 0.8201, AUC: 0.8874
+Epoch 23 – last‐batch loss: 0.8271, AUC: 0.8873
+Epoch 24 – last‐batch loss: 0.8156, AUC: 0.8933
+Epoch 25 – last‐batch loss: 0.7897, AUC: 0.8990
+Epoch 26 – last‐batch loss: 0.7860, AUC: 0.9017
+Epoch 27 – last‐batch loss: 0.7773, AUC: 0.9016
+Epoch 28 – last‐batch loss: 0.7604, AUC: 0.9072
+Epoch 29 – last‐batch loss: 0.7698, AUC: 0.9038
+Epoch 30 – last‐batch loss: 0.7586, AUC: 0.9113
+Epoch 31 – last‐batch loss: 0.7595, AUC: 0.9039
+Epoch 32 – last‐batch loss: 0.7364, AUC: 0.9101
+Epoch 33 – last‐batch loss: 0.7530, AUC: 0.9085
+Epoch 34 – last‐batch loss: 0.7274, AUC: 0.9153
+Epoch 35 – last‐batch loss: 0.7102, AUC: 0.9195
+Epoch 36 – last‐batch loss: 0.6991, AUC: 0.9187
+Epoch 37 – last‐batch loss: 0.6942, AUC: 0.9216
+Epoch 38 – last‐batch loss: 0.7024, AUC: 0.9200
+Epoch 39 – last‐batch loss: 0.6754, AUC: 0.9281
+Epoch 40 – last‐batch loss: 0.6703, AUC: 0.9284
+Evaluating...
+........................................................................................................................................................................................................
+epoch:40, time: 2567.299735(s), valid (NDCG@10: 0.3803, Recall@10: 0.5900, NDCG@20: 0.4111, Recall@20: 0.7117), test (NDCG@10: 0.0354, Recall@10: 0.0667, NDCG@20: 0.0453, Recall@20: 0.1061)
+Epoch 41 – last‐batch loss: 0.6567, AUC: 0.9320
+Epoch 42 – last‐batch loss: 0.6654, AUC: 0.9274
+Epoch 43 – last‐batch loss: 0.6345, AUC: 0.9380
+Epoch 44 – last‐batch loss: 0.6465, AUC: 0.9354
+Epoch 45 – last‐batch loss: 0.6447, AUC: 0.9345
+Epoch 46 – last‐batch loss: 0.6046, AUC: 0.9400
+Epoch 47 – last‐batch loss: 0.6413, AUC: 0.9358
+Epoch 48 – last‐batch loss: 0.6026, AUC: 0.9427
+Epoch 49 – last‐batch loss: 0.6012, AUC: 0.9443
+Epoch 50 – last‐batch loss: 0.5859, AUC: 0.9477
+Epoch 51 – last‐batch loss: 0.5861, AUC: 0.9453
+Epoch 52 – last‐batch loss: 0.5604, AUC: 0.9490
+Epoch 53 – last‐batch loss: 0.5709, AUC: 0.9438
+Epoch 54 – last‐batch loss: 0.5725, AUC: 0.9472
+Epoch 55 – last‐batch loss: 0.5502, AUC: 0.9509
+Epoch 56 – last‐batch loss: 0.5346, AUC: 0.9530
+Epoch 57 – last‐batch loss: 0.5272, AUC: 0.9580
+Epoch 58 – last‐batch loss: 0.5155, AUC: 0.9564
+Epoch 59 – last‐batch loss: 0.5049, AUC: 0.9609
+Epoch 60 – last‐batch loss: 0.5216, AUC: 0.9560
+Evaluating...
+........................................................................................................................................................................................................
+epoch:60, time: 5709.076371(s), valid (NDCG@10: 0.4097, Recall@10: 0.6238, NDCG@20: 0.4398, Recall@20: 0.7429), test (NDCG@10: 0.0389, Recall@10: 0.0729, NDCG@20: 0.0488, Recall@20: 0.1122)
+Epoch 61 – last‐batch loss: 0.5118, AUC: 0.9576
+Epoch 62 – last‐batch loss: 0.5097, AUC: 0.9566
+Epoch 63 – last‐batch loss: 0.4931, AUC: 0.9592
+Epoch 64 – last‐batch loss: 0.4854, AUC: 0.9627
+Epoch 65 – last‐batch loss: 0.5012, AUC: 0.9594
+Epoch 66 – last‐batch loss: 0.4847, AUC: 0.9602
+Epoch 67 – last‐batch loss: 0.4665, AUC: 0.9657
+Epoch 68 – last‐batch loss: 0.4945, AUC: 0.9605
+Epoch 69 – last‐batch loss: 0.4755, AUC: 0.9624
+Epoch 70 – last‐batch loss: 0.4623, AUC: 0.9629
+Epoch 71 – last‐batch loss: 0.4444, AUC: 0.9672
+Epoch 72 – last‐batch loss: 0.4512, AUC: 0.9660
+Epoch 73 – last‐batch loss: 0.4530, AUC: 0.9641
+Epoch 74 – last‐batch loss: 0.4257, AUC: 0.9698
+Epoch 75 – last‐batch loss: 0.4247, AUC: 0.9701
+Epoch 76 – last‐batch loss: 0.4179, AUC: 0.9699
+Epoch 77 – last‐batch loss: 0.4183, AUC: 0.9697
+Epoch 78 – last‐batch loss: 0.4344, AUC: 0.9666
+Epoch 79 – last‐batch loss: 0.4199, AUC: 0.9728
+Epoch 80 – last‐batch loss: 0.4320, AUC: 0.9691
+Evaluating...
+........................................................................................................................................................................................................
+epoch:80, time: 10084.111182(s), valid (NDCG@10: 0.4353, Recall@10: 0.6457, NDCG@20: 0.4643, Recall@20: 0.7601), test (NDCG@10: 0.0465, Recall@10: 0.0843, NDCG@20: 0.0577, Recall@20: 0.1286)
+Epoch 81 – last‐batch loss: 0.4001, AUC: 0.9724
+Epoch 82 – last‐batch loss: 0.4161, AUC: 0.9710
+Epoch 83 – last‐batch loss: 0.3937, AUC: 0.9730
+Epoch 84 – last‐batch loss: 0.3894, AUC: 0.9755
+Epoch 85 – last‐batch loss: 0.3878, AUC: 0.9753
+Epoch 86 – last‐batch loss: 0.3700, AUC: 0.9753
+Epoch 87 – last‐batch loss: 0.3874, AUC: 0.9738
+Epoch 88 – last‐batch loss: 0.3633, AUC: 0.9784
+Epoch 89 – last‐batch loss: 0.3683, AUC: 0.9750
+Epoch 90 – last‐batch loss: 0.3644, AUC: 0.9775
+Epoch 91 – last‐batch loss: 0.3620, AUC: 0.9759
+Epoch 92 – last‐batch loss: 0.3516, AUC: 0.9793
+Epoch 93 – last‐batch loss: 0.3417, AUC: 0.9786
+Epoch 94 – last‐batch loss: 0.3442, AUC: 0.9804
+Epoch 95 – last‐batch loss: 0.3264, AUC: 0.9791
+Epoch 96 – last‐batch loss: 0.3291, AUC: 0.9805
+Epoch 97 – last‐batch loss: 0.3313, AUC: 0.9797
+Epoch 98 – last‐batch loss: 0.3342, AUC: 0.9805
+Epoch 99 – last‐batch loss: 0.3349, AUC: 0.9797
+Epoch 100 – last‐batch loss: 0.3239, AUC: 0.9813
+Evaluating...
+........................................................................................................................................................................................................
+epoch:100, time: 15700.747061(s), valid (NDCG@10: 0.4758, Recall@10: 0.6898, NDCG@20: 0.5027, Recall@20: 0.7960), test (NDCG@10: 0.0602, Recall@10: 0.1141, NDCG@20: 0.0713, Recall@20: 0.1587)
+Test‐driven best at epoch 100: NDCG@10=0.0602, Recall@10=0.1141, NDCG@20=0.0713, Recall@20=0.1587
+Total time used is 01:43:07
+Total Train Time is : 00:55:31
+Total Test Time:  00:47:35
+Average Train Time per Epoch: 33.32 seconds
+Average Test Time per Epoch: 28.56 seconds
+
+--- Memory Usage Summary ---
+Peak GPU Memory Usage: 2.79 GB
+CPU Memory Usage: 6.05 GB
