@@ -1,34 +1,15 @@
-# Python
+# Ignore all dataset and model folders
+data/
+xlong_default/
+
+# Ignore checkpoints and large text files
+*.ckpt
+*.txt
+*.bin
+*.pt
+*.pkl
+
+# Python cache
 __pycache__/
 *.pyc
-*.pyo
-*.pyd
 
-# Models
-*.pt
-*.pth
-*.ckpt
-*.h5
-
-# Logs
-logs/
-*.log
-
-
-# Checkpoints
-checkpoints/
-saved/
-save/
-model/
-output/
-
-# VSCode
-.vscode/
-
-# IDE
-.idea/
-
-# Env
-env/
-venv/
-.venv/
